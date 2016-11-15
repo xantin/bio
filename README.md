@@ -6,6 +6,8 @@ Ing. David Dutkovsky
 phone1: +420 737 266 970
 phone2: +886 
 email: david.dutkovsky@gmail.com
+skype: daviddutkovsky
+google hangouts: david.dtukovsky@gmail.com
 
 ## summary
 Technological-minded with deep technical background in software development and huge interest in cutting-the-edge technology. 
