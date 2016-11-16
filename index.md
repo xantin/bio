@@ -23,3 +23,9 @@ I'm usually using what is good enough for implementing.
 [angel.co](https://angel.co/david-dutkovsky)
 [github](https://github.com/xantin)
 
+## hobbies
+
+*learning new staff
+
+## tech
+Nodejs, Influxdb, Azure, MongoDB, Redis, Docker, Kubernetes
