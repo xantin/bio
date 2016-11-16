@@ -4,7 +4,7 @@ David Dutkovsky
 
 ## contacts
 phone1: +420 737 266 970
-phone2: +886 
+phone2: +886 09 68 65 1950
 email: david.dutkovsky@gmail.com
 skype: daviddutkovsky
 google hangouts: david.dtukovsky@gmail.com
