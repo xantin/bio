@@ -20,6 +20,7 @@
 * ri4be3n [žipen] - japan
 * xi1ba1nya [šipanja] - spain
 * yi4ndu4 [jindu] - india
+* dho1ngguo2 [džongguo] - china
 
 
 
