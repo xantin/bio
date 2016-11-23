@@ -5,7 +5,18 @@
 
 * xi2xie [šiéšie] - thank you
 * za4i jia4n [caj čian] - see you
+
 * ni3 shi4 na3 guo2 re2n [ny ši na guo žen] -  where are you from
 * wo3 shi4 ... [wo ši] - I'm from ...
+* guo2 [guo] - country
+countries
+* de2guo2 [deguo] - germany
+* fa3guo2 [faguo] - france
+* me3iguo2 [meiguo] - USA
+* ri4be3n [žipen] - japan
+* xi1ba1nya [šipanja] - spain
+* yi4ndu4 [jindu] - india
+
+
 
 source: https://www.coursera.org/learn/learn-chinese
