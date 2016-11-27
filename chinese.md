@@ -3,10 +3,28 @@
 * 3 down and up 
 * 4 down
 
+## helper
+* ... [] - 
+
 # who I'm
 * xi2xie [šiéšie] - thank you
 * za4i jia4n [caj čian] - see you
-* .... - [woo heeen hau] - I'm good
+* ... [woo heeen hau] - I'm good
+* ... [woo heen bu hau] - je mi spatne
+* ... [bu yoo sese] - no thanks
+* ... [bu] - create negative before verb
+* ... [yoo] - have
+* ... [či pa l ma] - did you eat?
+* ... [či pali] - I ate
+* ... [ma] - at the end of sentence is creating this waz quastion
+
+* ... [nyy] - you
+* ... [woo] - me
+* ... [ta] - he, she, it 
+* ... [koko] - money
+* ... [beči] - idiot/stupid
+* ... [ny hou pjauliat] - you look great
+* ... [woo me jo koko] - I dont have money
 
 # country
 * ni3 shi4 na3 guo2 re2n [ny ši na guo žen] -  where are you from
