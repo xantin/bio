@@ -25,6 +25,8 @@
 * ... [beči] - idiot/stupid
 * ... [ny hou pjauliat] - you look great
 * ... [woo me jo koko] - I dont have money
+* ... [] - 
+* ... [] - 
 
 # country
 * ni3 shi4 na3 guo2 re2n [ny ši na guo žen] -  where are you from
