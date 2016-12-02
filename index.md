@@ -14,7 +14,7 @@ Technological-minded with deep technical background in software development and 
 David Dutkovský is a very passionate about creating value through the ideas and subsequently bringing them to the life. 
 I'm usually using what is good enough for implementing.
 
-[linkedin](https://tw.linkedin.com/in/daviddutkovsky)
+[linkedin](https://tw.linkedin.com/in/daviddutkovsky) 
 [twitter](https://twitter.com/daviddutkovsky)
 [facebook](https://www.facebook.com/dutkovsky?ref=bookmarks)
 [codementor](https://www.codementor.io/daviddutkovsky)
