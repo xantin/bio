@@ -25,7 +25,7 @@ I'm usually using what is good enough for implementing.
 
 ## hobbies
 
-*learning new staff
+* learning new staff
 
 ## tech
 Nodejs, Influxdb, Azure, MongoDB, Redis, Docker, Kubernetes
