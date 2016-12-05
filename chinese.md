@@ -43,6 +43,9 @@
 * yi4ndu4 [jindu] - india
 * dho1ngguo2 [džongguo] - china
 
+## phases
+
+[ny3 ši šej] who are you?
 
 
 source: 
