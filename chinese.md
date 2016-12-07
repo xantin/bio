@@ -52,3 +52,4 @@
 source: 
 * https://www.coursera.org/learn/learn-chinese
 * wang jia-chyi 
+* https://www.quora.com/How-do-I-learn-Mandarin-Chinese-well/answer/Becky-Zhang-10
