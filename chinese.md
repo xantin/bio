@@ -46,6 +46,7 @@
 ## phases
 
 [ny3 ši šej] who are you?
+[wo3 3i chuan] I like
 
 
 source: 
