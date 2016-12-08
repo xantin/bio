@@ -47,7 +47,12 @@
 
 [ny3 ši šej] who are you?
 [wo3 3i chuan] I like
-
+[wo3 chen3 ši chuvan) I like very much
+[wo3 šan3 jao4] I want
+[džaši šej] who is it?
+[džaši] tohle
+[džaši ša ma] what is this
+[chen kau3 šim] glad to meet 
 
 source: 
 * https://www.coursera.org/learn/learn-chinese
