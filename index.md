@@ -7,7 +7,7 @@ phone1: +420 737 266 970
 phone2: +886 0968 803 309
 email: david.dutkovsky@gmail.com
 skype: daviddutkovsky
-google hangouts: david.dtukovsky@gmail.com
+google hangouts: david.dutkovsky@gmail.com
 
 ## summary
 I am technologically adept with an extensive background in software development and a passion for cutting edge tech in general. I am very passionate about bringing ideas to life and realizing their potential value.
