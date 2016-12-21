@@ -10,9 +10,7 @@ skype: daviddutkovsky
 google hangouts: david.dtukovsky@gmail.com
 
 ## summary
-Technological-minded with deep technical background in software development and huge interest in cutting-the-edge technology. 
-David Dutkovský is a very passionate about creating value through the ideas and subsequently bringing them to the life. 
-I'm usually using what is good enough for implementing.
+I am technologically adept with an extensive background in software development and a passion for cutting edge tech in general. I am very passionate about bringing ideas to life and realizing their potential value.
 
 [linkedin](https://tw.linkedin.com/in/daviddutkovsky) 
 [twitter](https://twitter.com/daviddutkovsky)
